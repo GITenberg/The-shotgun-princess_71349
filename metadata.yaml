@@ -1,0 +1,25 @@
+_repo: The-shotgun-princess_71349
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rouse, William Merriam
+    gutenberg_agent_id: '56187'
+    url: http://www.gutenberg.org/2009/agents/56187
+description: ''
+gutenberg_issued: '2023-08-05'
+identifiers:
+  gutenberg: '71349'
+language: en
+pgterms:marc904: https://archive.org/details/top-notch-magazine-v-65-n-04-1926-03-15
+pgterms:marc905: 20230724070824rouse
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aNew York :$bStreet & Smith Corporation, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The shotgun princess
+url: http://www.gutenberg.org/ebooks/71349
